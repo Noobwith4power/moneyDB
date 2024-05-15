@@ -1,1 +1,0 @@
-Реализовал базу FinanceManagementDB, в которой сделал таблицы Client,Account, Transactions. И 4 таблицы ребра: Look, ClientAccount, AccountTransaction, ClientTransaction и реализовал 5 запросов на MATCH, 2 на SHORTEST_PATH.
